@@ -1,0 +1,145 @@
+.btn.btn-lg, .btn-group-lg .btn, .navbar .navbar-nav > li > a.btn.btn-lg, .btn-group-lg .navbar .navbar-nav > li > a.btn {
+    /* font-size: 14px; */
+
+}
+
+.btn.btn-danger, .btn.btn-danger:hover, .btn.btn-danger:focus, .btn.btn-danger:active, .btn.btn-danger.active, .btn.btn-danger:active:focus, .btn.btn-danger:active:hover, .btn.btn-danger.active:focus, .btn.btn-danger.active:hover, .open > .btn.btn-danger.dropdown-toggle, .open > .btn.btn-danger.dropdown-toggle:focus, .open > .btn.btn-danger.dropdown-toggle:hover, .navbar .navbar-nav > li > a.btn.btn-danger, .navbar .navbar-nav > li > a.btn.btn-danger:hover, .navbar .navbar-nav > li > a.btn.btn-danger:focus, .navbar .navbar-nav > li > a.btn.btn-danger:active, .navbar .navbar-nav > li > a.btn.btn-danger.active, .navbar .navbar-nav > li > a.btn.btn-danger:active:focus, .navbar .navbar-nav > li > a.btn.btn-danger:active:hover, .navbar .navbar-nav > li > a.btn.btn-danger.active:focus, .navbar .navbar-nav > li > a.btn.btn-danger.active:hover, .open > .navbar .navbar-nav > li > a.btn.btn-danger.dropdown-toggle, .open > .navbar .navbar-nav > li > a.btn.btn-danger.dropdown-toggle:focus, .open > .navbar .navbar-nav > li > a.btn.btn-danger.dropdown-toggle:hover {
+    background-color: orange;
+    color: #FFFFFF;
+}
+
+.btn.btn-danger, .navbar .navbar-nav > li > a.btn.btn-danger {
+    box-shadow: 0 2px 2px 0 rgba(244, 67, 54, 0.14), 0 3px 1px -2px rgba(244, 67, 54, 0.2), 0 1px 5px 0 rgba(244, 67, 54, 0.12);
+}
+
+.btn, .btn:hover, .btn:focus, .btn:active, .btn.active, .btn:active:focus, .btn:active:hover, .btn.active:focus, .btn.active:hover, .open > .btn.dropdown-toggle, .open > .btn.dropdown-toggle:focus, .open > .btn.dropdown-toggle:hover, .btn.btn-default, .btn.btn-default:hover, .btn.btn-default:focus, .btn.btn-default:active, .btn.btn-default.active, .btn.btn-default:active:focus, .btn.btn-default:active:hover, .btn.btn-default.active:focus, .btn.btn-default.active:hover, .open > .btn.btn-default.dropdown-toggle, .open > .btn.btn-default.dropdown-toggle:focus, .open > .btn.btn-default.dropdown-toggle:hover, .navbar .navbar-nav > li > a.btn, .navbar .navbar-nav > li > a.btn:hover, .navbar .navbar-nav > li > a.btn:focus, .navbar .navbar-nav > li > a.btn:active, .navbar .navbar-nav > li > a.btn.active, .navbar .navbar-nav > li > a.btn:active:focus, .navbar .navbar-nav > li > a.btn:active:hover, .navbar .navbar-nav > li > a.btn.active:focus, .navbar .navbar-nav > li > a.btn.active:hover, .open > .navbar .navbar-nav > li > a.btn.dropdown-toggle, .open > .navbar .navbar-nav > li > a.btn.dropdown-toggle:focus, .open > .navbar .navbar-nav > li > a.btn.dropdown-toggle:hover, .navbar .navbar-nav > li > a.btn.btn-default, .navbar .navbar-nav > li > a.btn.btn-default:hover, .navbar .navbar-nav > li > a.btn.btn-default:focus, .navbar .navbar-nav > li > a.btn.btn-default:active, .navbar .navbar-nav > li > a.btn.btn-default.active, .navbar .navbar-nav > li > a.btn.btn-default:active:focus, .navbar .navbar-nav > li > a.btn.btn-default:active:hover, .navbar .navbar-nav > li > a.btn.btn-default.active:focus, .navbar .navbar-nav > li > a.btn.btn-default.active:hover, .open > .navbar .navbar-nav > li > a.btn.btn-default.dropdown-toggle, .open > .navbar .navbar-nav > li > a.btn.btn-default.dropdown-toggle:focus, .open > .navbar .navbar-nav > li > a.btn.btn-default.dropdown-toggle:hover {
+    background-color: red;
+    color: #FFFFFF;
+}
+
+.btn, .btn.btn-default, .navbar .navbar-nav > li > a.btn, .navbar .navbar-nav > li > a.btn.btn-default {
+    box-shadow: 0 2px 2px 0 rgba(153, 153, 153, 0.14), 0 3px 1px -2px rgba(153, 153, 153, 0.2), 0 1px 5px 0 rgba(153, 153, 153, 0.12);
+}
+
+.btn, .navbar .navbar-nav > li > a.btn {
+    border: none;
+    border-radius: 3px;
+    position: relative;
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0;
+    transition: box-shadow 0.2s cubic-bezier(0.4, 0, 1, 1), background-color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.btn-lg, .btn-group-lg>.btn {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 10px;
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+}
+
+.btn {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+ 
+	
+}
+ .btn-land{
+	 
+	padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 10px;
+	background-color: orange;
+ 
+ }
+ 
+ /* TITLE FONT */
+h2.fontC {
+	
+font-family: 'Catamaran', sans-serif;
+
+}
+
+/* Card */
+.card {
+	/* background-color:white; */
+	background-image: linear-gradient( white , #f2f1f1);
+	padding-bottom: 40px;
+	width:100%;
+	height:auto;
+	margin:50px 0 0px 0;
+	border-radius: 8px;
+	box-shadow: 0px 10px 20px -6px rgba(255, 190, 72,.5);
+	overflow:hidden;
+	cursor:pointer;
+}
+
+.card:before,
+.card:after {
+	content: '';
+	display: block;
+	height: 15px;
+	border-radius: 0px 0px 4px 4px;
+	position:absolute;
+	bottom:100px;
+	background-color: #ffa80b;
+}
+
+img {
+	
+	width:100%;
+	height: auto;
+}
+
+.card, .card:after, .card:before {
+	transition: all .5s ease;
+}
+
+.card:hover {
+	margin-top: 45px;
+	box-shadow: 0px 15px 30px -6px rgba(255, 165, 0);
+}
+
+.card:hover:before {
+	margin-bottom:-15px;
+}
+
+.card:hover:after {
+	margin-bottom:-25px;
+}
+
+/* Last */
+
+.main-up {
+
+    margin: -30px 30px -30px;
+    border-radius: 6px;
+    box-shadow: 0 6px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
+}
+
+.main-w {
+	background-image: linear-gradient( white , #f2f1f1);
+    position: relative;
+    z-index: 3;
+}
